@@ -8,11 +8,9 @@
 
 %% IDENTIFICATION
 
-\xdef\ntnuthesisdate{2019/07/18}
+\xdef\ntnuthesisdate{November 2, 2026}
 \NeedsTeXFormat{LaTeX2e}
 \ProvidesClass{ntnuthesis}
- [\ntnuthesisdate\space
-   CC-BY CoPCSE at NTNU 2019]
 
 
 %% CLASS OPTIONS
